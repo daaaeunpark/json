@@ -2,9 +2,9 @@
   "patients": [
     {
       "id": "1",
-      "name": "Chul Soo Lee",
+      "name": "Da Eun Park",
       "age": 45,
-      "gender": "Male",
+      "gender": "Female",
       "vitalSigns": {
         "heartRate": [72, 75, 78, 80],
         "bloodPressure": [
